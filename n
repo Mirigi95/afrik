@@ -1,0 +1,75 @@
+
+
+ enter the commit message for your changes. Lines starting with '#' will be bash: line 
+1: T: command not found T
+
+# ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed: new file: LICENSE new file: README.md new file: 
+#	package.json new file: packages/hardhat/.env.example new file: 
+#	packages/hardhat/.gitignore new file: packages/hardhat/README.md new file: 
+#	packages/hardhat/contracts/Lock.sol new file: 
+#	packages/hardhat/hardhat.config.js new file: packages/hardhat/package.json new 
+#	file: packages/hardhat/scripts/deploy.js new file: 
+#	packages/hardhat/test/Lock.js new file: packages/hardhat/yarn.lock new file: 
+#	packages/react-native-app/.env.example new file: 
+#	packages/react-native-app/.expo-shared/assets.json new file: 
+#	packages/react-native-app/.gitignore new file: 
+#	packages/react-native-app/App.tsx new file: 
+#	packages/react-native-app/README.md new file: 
+#	packages/react-native-app/android-manifest.plugin.js new file: 
+#	packages/react-native-app/app.json new file: 
+#	packages/react-native-app/assets/fonts/Inter-Bold.ttf new file: 
+#	packages/react-native-app/assets/fonts/Inter-Medium.ttf new file: 
+#	packages/react-native-app/assets/fonts/Inter-Regular.ttf new file: 
+#	packages/react-native-app/assets/fonts/Inter-SemiBold.ttf new file: 
+#	packages/react-native-app/assets/fonts/SpaceMono-Regular.ttf new file: 
+#	packages/react-native-app/assets/images/adaptive-icon.png new file: 
+#	packages/react-native-app/assets/images/favicon.png new file: 
+#	packages/react-native-app/assets/images/icon.png new file: 
+#	packages/react-native-app/assets/images/splash.png new file: 
+#	packages/react-native-app/babel.config.js new file: 
+#	packages/react-native-app/components/AccountAddress.tsx new file: 
+#	packages/react-native-app/components/AccountBalance.tsx new file: 
+#	packages/react-native-app/components/BlockchainActions.tsx new file: 
+#	packages/react-native-app/components/Button.tsx new file: 
+#	packages/react-native-app/components/ConnectWallet.tsx new file: 
+#	packages/react-native-app/components/Container.tsx new file: 
+#	packages/react-native-app/components/EditScreenInfo.tsx new file: 
+#	packages/react-native-app/components/Headings.tsx new file: 
+#	packages/react-native-app/components/MonoText.tsx new file: 
+#	packages/react-native-app/components/RequestModal.tsx new file: 
+#	packages/react-native-app/components/Themed.tsx new file: 
+#	packages/react-native-app/constants/Colors.ts new file: 
+#	packages/react-native-app/constants/Config.ts new file: 
+#	packages/react-native-app/constants/Contract.ts new file: 
+#	packages/react-native-app/constants/Layout.ts new file: 
+#	packages/react-native-app/constants/eip712.ts new file: 
+#	packages/react-native-app/context/ThemeProvider.tsx new file: 
+#	packages/react-native-app/hooks/useCachedResources.ts new file: 
+#	packages/react-native-app/hooks/useColorScheme.ts new file: 
+#	packages/react-native-app/index.js new file: 
+#	packages/react-native-app/navigation/LinkingConfiguration.ts new file: 
+#	packages/react-native-app/navigation/index.tsx new file: 
+#	packages/react-native-app/package.json new file: 
+#	packages/react-native-app/screens/Account.tsx new file: 
+#	packages/react-native-app/screens/Docs.tsx new file: 
+#	packages/react-native-app/screens/Greeter.tsx new file: 
+#	packages/react-native-app/screens/LoginScreen.tsx new file: 
+#	packages/react-native-app/screens/ModalScreen.tsx new file: 
+#	packages/react-native-app/screens/NotFoundScreen.tsx new file: 
+#	packages/react-native-app/screens/Storage.tsx new file: 
+#	packages/react-native-app/shim.js new file: 
+#	packages/react-native-app/tsconfig.json new file: 
+#	packages/react-native-app/types.tsx new file: 
+#	packages/react-native-app/utils/ContractUtil.ts new file: 
+#	packages/react-native-app/utils/MethodUtil.ts new file: 
+#	packages/react-native-app/yarn.lock new file: renovate.json new file: 
+#	yarn.lock
+#
+bash: line 1: J: command not found
+
